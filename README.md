@@ -1,2 +1,2 @@
-# Commercial_Website
-It is a demo of commercial website.
+# E_Commerce_Website
+It is a demo of a E-commerce website.
